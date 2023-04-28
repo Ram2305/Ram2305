@@ -31,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Stats of Ram
 
-<img width="500" height="500" align="right" alt="pic" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img width="300" height="300" align="right" alt="pic" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram2305&show_icons=true&locale=en&layout=compact" alt="ram2305" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram2305&show_icons=true&locale=en" alt="ram2305" /></p>
