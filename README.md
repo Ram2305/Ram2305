@@ -1,18 +1,10 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ram
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ram <img align="center" alt="devops" width="60" height="60" src="https://devopsconclave.com/images/aboutgif1.gif">
 ===========================================================================================================================
 
-"DevOps and Cloud enthusiast" <img align="center" alt="devops" width="60" height="60" src="https://devopsconclave.com/images/aboutgif1.gif">
------------------------------
+<img width="1900" height="500" alt="Make your README" src="https://user-images.githubusercontent.com/54402312/235190598-d0348ac2-ec69-4603-83ff-82ccf9ea62c6.png">
 
-Welcome to my GitHub profile! I am currently a student with a passion for cloud computing and DevOps. I have experience with popular cloud platforms like AWS and can leverage their services to design and deploy scalable, highly available, and fault-tolerant applications.
-
-My proficiency in DevOps enables me to build and automate CI/CD pipelines, infrastructure as code (IaC), and configuration management using tools like Git, Jenkins, Ansible, Terraform, and Kubernetes. I believe in the power of automation, continuous integration, and delivery, and I am committed to helping organizations streamline their development and deployment workflows to accelerate time-to-market and reduce operational costs. 
-
-Throughout my GitHub profile, you will find cloud computing, DevOps, and related repositories. From building web applications to designing scalable infrastructure, I am always seeking new challenges and opportunities to improve my skills.
-
-Feel free to explore my repositories. Let's connect and collaborate on exciting new projects!
 
 ### Skills
 
