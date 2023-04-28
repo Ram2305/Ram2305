@@ -27,7 +27,7 @@ Feel free to explore my repositories. Let's connect and collaborate on exciting 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="55"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.architect.io/wp-content/uploads/2023/02/terraform-logo-on-black-square-440x440.png" width="60" height="60" alt="Terraform" /></a>
-<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://sachsenhofer.io/wp-content/uploads/2018/06/ansible-white.png" width="80" height="75" alt="Ansible" /></a>
+<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" width="60" height="60" alt="Ansible" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="65" height="60" alt="Github" /></a>
 </p>
 
