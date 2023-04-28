@@ -1,5 +1,4 @@
 
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ram <img align="center" alt="devops" width="60" height="60" src="https://devopsconclave.com/images/aboutgif1.gif">
 ===========================================================================================================================
 
@@ -29,11 +28,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://leetcode.com/vjram2305/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vjram2305/" height="32" width="40" /></a>
 </p>
 
+### Stats of Ram
 
+<img width="500" height="500" align="right" alt="pic" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram2305&show_icons=true&locale=en&layout=compact" alt="ram2305" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram2305&show_icons=true&locale=en" alt="ram2305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2305&" alt="ram2305" /></p>
-
-
