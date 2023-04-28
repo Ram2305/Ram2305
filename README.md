@@ -33,7 +33,7 @@ Feel free to explore my repositories. Let's connect and collaborate on exciting 
 <p align="left"> 
 <a href="https://www.github.com/Ram2305" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/rama-raju-cloud-devops-sre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vjram2305/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vjram2305/" height="32" width="40" /></a>
+<a href="https://leetcode.com/vjram2305/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vjram2305/" height="32" width="40" /></a>
 </p>
 
 <b>My GitHub Stats</b>
