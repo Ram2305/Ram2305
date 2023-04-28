@@ -29,9 +29,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://leetcode.com/vjram2305/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vjram2305/" height="32" width="40" /></a>
 </p>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ram2305"><img src="https://github-readme-stats.vercel.app/api?username=Ram2305&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ram2305's GitHub stats" /> </a>
-<img align="right" alt="devops1" width="400" height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram2305&show_icons=true&locale=en&layout=compact" alt="ram2305" /></p>
 
-<a href="https://github.com/Ram2305" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram2305&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram2305&show_icons=true&locale=en" alt="ram2305" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram2305&" alt="ram2305" /></p>
+
+
